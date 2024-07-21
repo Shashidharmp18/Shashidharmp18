@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node JS<br>👯 I’m looking to collaborate on web Development<br>🤝 I’m looking for help with web Development<br>🌱 I’m currently learning Node JS<br>💬 Ask me about C Language<br>⚡ Fun fact it's me
+🔭 I’m currently working on React JS<br>👯 I’m looking to collaborate on web Development<br>🤝 I’m looking for help with web Development<br>🌱 I’m currently learning React JS<br>💬 Ask me about C Language<br>⚡ Fun fact it's me
 
 
 ## 🌐 Socials:
